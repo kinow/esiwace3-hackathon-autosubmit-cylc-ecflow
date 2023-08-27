@@ -1,0 +1,1 @@
+import './esiwace.css';
